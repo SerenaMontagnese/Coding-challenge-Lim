@@ -1,0 +1,32 @@
+.zero{background-image:url(background.jpg);
+background-size: 1500px;
+}
+.conteiner{width:1500px;
+margin: auto;}
+.uno{width: 200px;
+margin-top: 100px;
+margin-left: 700px;}
+.logo{font-size:30px;
+color: #00ea38;
+margin-left: 450px;}
+.due{ background-color: #00ea38;
+width: 700px;
+height: 20px;
+margin-left: 450px;}
+.text{margin-left: 100px;}
+.list{margin-left: 450px;
+margin-top: 20px;
+color: white;}
+.font{font-size: 15px;
+color: white;}
+.tre{width: 300px;
+height: 20px;
+background-color: orange;}
+.four{margin-top: 20px;}
+.five{width: 500px;
+height: 20px;
+background-color: #00ea38;}
+.six{width: 100px;
+height: 20px;
+background-color: red;
+margin-bottom: 500px;}
